@@ -17,6 +17,7 @@ rapidocr-onnxruntime
 sentence-transformers
 unstructured
 unstructured[pdf]
+loguru
 
 python-pptx
 
